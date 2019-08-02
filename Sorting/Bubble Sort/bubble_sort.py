@@ -1,3 +1,6 @@
+# Time Complexity : O(n^2)
+# Space Complexity : O(1)
+
 def bubble_sort(a):
     ''' Sorts the given array in ascending order '''
     for i in range(len(a)):
