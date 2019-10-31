@@ -12,5 +12,7 @@ if __name__ == '__main__':
     a = [3,1,2,-1,0]
     bubble_sort(a)
     assert a == [-1,0,1,2,3]
+    #Why should I use this.
+    #Because I know merge sort.
 
 
